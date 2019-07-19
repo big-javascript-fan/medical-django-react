@@ -1,0 +1,839 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="abee07fa-4b2e-4261-af07-88e65efc54a5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cse/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/cse/views.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Python Script" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>1_medi_name</find>
+      <find>blank</find>
+      <find>h6</find>
+      <find>w3</find>
+      <find>slides</find>
+      <find>flexslider</find>
+      <find>background-s</find>
+      <find>hero</find>
+      <find>back</find>
+      <find>background</find>
+      <find>800</find>
+      <find>650</find>
+      <find>menu</find>
+      <find>container</find>
+      <find>contai</find>
+      <find>wrap</find>
+      <find>oss</find>
+      <find>o</find>
+      <find>body</find>
+      <find>backg</find>
+      <find>img src</find>
+      <find>row</find>
+      <find>img</find>
+      <find>doctor(</find>
+      <find>patien</find>
+      <find>patient_to</find>
+      <find>per_medi_in</find>
+      <find>medicineinfo</find>
+      <find>medise</find>
+      <find>full</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>null=True</replace>
+      <replace>blank=True</replace>
+      <replace>customerss</replace>
+      <replace>Before</replace>
+      <replace>After</replace>
+      <replace>3</replace>
+      <replace>4</replace>
+      <replace>5</replace>
+      <replace>6</replace>
+      <replace>7</replace>
+      <replace>8</replace>
+      <replace>9</replace>
+      <replace>10</replace>
+      <replace>2</replace>
+      <replace>www</replace>
+      <replace>.</replace>
+      <replace>h5</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/cse/templates/cse/prescription.html" />
+        <option value="$PROJECT_DIR$/cse/templates/cse/indexsuper.html" />
+        <option value="$PROJECT_DIR$/cse/templates/cse/blog_general.html" />
+        <option value="$PROJECT_DIR$/cse/templates/cse/Unused/doctor_general.html" />
+        <option value="$PROJECT_DIR$/cse/templates/cse/profile_medi.html" />
+        <option value="$PROJECT_DIR$/cse/templates/cse/about_us_general.html" />
+        <option value="$PROJECT_DIR$/cse/templates/cse/about_us.html" />
+        <option value="$PROJECT_DIR$/cse/templates/cse/staring.html" />
+        <option value="$PROJECT_DIR$/cse/templates/cse/contact.html" />
+        <option value="$PROJECT_DIR$/cse/templates/cse/contact_general.html" />
+        <option value="$PROJECT_DIR$/cse/templates/cse/index.html" />
+        <option value="$PROJECT_DIR$/cse/templates/cse/index_admin.html" />
+        <option value="$PROJECT_DIR$/cse/templates/cse/services_general.html" />
+        <option value="$PROJECT_DIR$/cse/static/cse/css/profile_sir/sir.css" />
+        <option value="$PROJECT_DIR$/cse/static/cse/css/flexslider.css" />
+        <option value="$PROJECT_DIR$/cse/static/cse/css/style.css" />
+        <option value="$PROJECT_DIR$/cse/static/cse/tiger/css/main-style.css" />
+        <option value="$PROJECT_DIR$/cse/static/cse/tiger/css/style.css" />
+        <option value="$PROJECT_DIR$/cse/templates/cse/feed3.html" />
+        <option value="$PROJECT_DIR$/cse/templates/cse/feed2.html" />
+        <option value="$PROJECT_DIR$/cse/models.py" />
+        <option value="$PROJECT_DIR$/cse/urls.py" />
+        <option value="$PROJECT_DIR$/cse/templates/cse/doctor_super.html" />
+        <option value="$PROJECT_DIR$/cse/templates/cse/doctors.html" />
+        <option value="$PROJECT_DIR$/cse/templates/cse/doctor_general.html" />
+        <option value="$PROJECT_DIR$/cse/templates/cse/profile.html" />
+        <option value="$PROJECT_DIR$/cse/templates/cse/doctor_full_profile.html" />
+        <option value="$PROJECT_DIR$/cse/templates/cse/doctor_full_p_general.html" />
+        <option value="$PROJECT_DIR$/cse/templates/cse/login.html" />
+        <option value="$PROJECT_DIR$/cse/templates/cse/doctorreg.html" />
+        <option value="$PROJECT_DIR$/cse/templates/cse/register.html" />
+        <option value="$PROJECT_DIR$/cse/templates/cse/patient_confirm.html" />
+        <option value="$PROJECT_DIR$/cse/templates/cse/password_reset_confirm.html" />
+        <option value="$PROJECT_DIR$/cse/templates/cse/password_reset_done.html" />
+        <option value="$PROJECT_DIR$/cse/templates/cse/password_reset.html" />
+        <option value="$PROJECT_DIR$/cse/templates/cse/medicinenew.html" />
+        <option value="$PROJECT_DIR$/cse/templates/cse/if_invalid.html" />
+        <option value="$PROJECT_DIR$/cse/templates/cse/if_invalid_pass.html" />
+        <option value="$PROJECT_DIR$/cse/templates/cse/before_confirm_admin.html" />
+        <option value="$PROJECT_DIR$/cse/templates/cse/before_confirm.html" />
+        <option value="$PROJECT_DIR$/cse/templates/cse/after_confirm_pass.html" />
+        <option value="$PROJECT_DIR$/cse/templates/cse/after_confirm_admin.html" />
+        <option value="$PROJECT_DIR$/cse/templates/cse/after_confirm.html" />
+        <option value="$PROJECT_DIR$/cse/templates/cse/medicineall.html" />
+        <option value="$PROJECT_DIR$/cse/templates/cse/medi_pre.html" />
+        <option value="$PROJECT_DIR$/cse/templates/cse/test2.html" />
+        <option value="$PROJECT_DIR$/cse/templates/cse/test3.html" />
+        <option value="$PROJECT_DIR$/cse/templates/cse/test.html" />
+        <option value="$PROJECT_DIR$/cse/templates/cse/pregform.html" />
+        <option value="$PROJECT_DIR$/cse/templates/cse/services.html" />
+        <option value="$PROJECT_DIR$/cse/views.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="70" />
+    <option name="y" value="35" />
+    <option name="width" value="1850" />
+    <option name="height" value="1045" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="sust-medical-center" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sust-medical-center" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sust-medical-center" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sust-medical-center" type="462c0819:PsiDirectoryNode" />
+              <item name="cse" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sust-medical-center" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sust-medical-center" type="462c0819:PsiDirectoryNode" />
+              <item name="cse" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sust-medical-center" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sust-medical-center" type="462c0819:PsiDirectoryNode" />
+              <item name="cse" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sust-medical-center" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sust-medical-center" type="462c0819:PsiDirectoryNode" />
+              <item name="media" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sust-medical-center" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sust-medical-center" type="462c0819:PsiDirectoryNode" />
+              <item name="medical" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Others" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cse/static/cse/tiger" />
+      <recent name="$PROJECT_DIR$/cse/static/cse/images" />
+      <recent name="$PROJECT_DIR$/cse/templates/cse/Unused" />
+      <recent name="$PROJECT_DIR$/media/images" />
+      <recent name="$PROJECT_DIR$/media/doctor" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cse/templates/cse" />
+      <recent name="$PROJECT_DIR$/cse/templates/cse/Unused" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="sust-medical-center" type="Python.DjangoServer" factoryName="Django server">
+      <module name="sust-medical-center" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="abee07fa-4b2e-4261-af07-88e65efc54a5" name="Default Changelist" comment="" />
+      <created>1555498931155</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555498931155</updated>
+      <workItem from="1555498932671" duration="946000" />
+      <workItem from="1555500265909" duration="835000" />
+      <workItem from="1555524353381" duration="10623000" />
+      <workItem from="1555563131758" duration="17477000" />
+      <workItem from="1555611222076" duration="4855000" />
+      <workItem from="1555623926254" duration="43000" />
+      <workItem from="1555834197239" duration="3935000" />
+      <workItem from="1555921700109" duration="3307000" />
+      <workItem from="1555931069398" duration="15976000" />
+      <workItem from="1555960531231" duration="10893000" />
+      <workItem from="1556003773241" duration="559000" />
+      <workItem from="1556004696067" duration="2866000" />
+      <workItem from="1556035694409" duration="2090000" />
+      <workItem from="1556076088330" duration="1667000" />
+      <workItem from="1556124350442" duration="599000" />
+      <workItem from="1556215589730" duration="1216000" />
+      <workItem from="1556224273440" duration="2711000" />
+      <workItem from="1556274901649" duration="47000" />
+      <workItem from="1556303485187" duration="2653000" />
+      <workItem from="1556355795889" duration="2566000" />
+      <workItem from="1556378408855" duration="1212000" />
+      <workItem from="1556394604996" duration="599000" />
+      <workItem from="1556433255264" duration="599000" />
+      <workItem from="1556474609722" duration="599000" />
+      <workItem from="1556602907176" duration="667000" />
+      <workItem from="1556608819932" duration="1893000" />
+      <workItem from="1556810228201" duration="9537000" />
+      <workItem from="1556822374546" duration="342000" />
+      <workItem from="1556823038721" duration="2279000" />
+      <workItem from="1556911627733" duration="52000" />
+      <workItem from="1557248085874" duration="6589000" />
+      <workItem from="1557291876390" duration="13927000" />
+      <workItem from="1557326100401" duration="11310000" />
+      <workItem from="1557384427420" duration="626000" />
+      <workItem from="1557402277934" duration="1429000" />
+      <workItem from="1557408347988" duration="1605000" />
+      <workItem from="1557508913075" duration="13000" />
+      <workItem from="1557570678044" duration="84000" />
+      <workItem from="1557809452481" duration="57000" />
+      <workItem from="1557811645310" duration="72000" />
+      <workItem from="1557833435302" duration="4353000" />
+      <workItem from="1557852548342" duration="12415000" />
+      <workItem from="1557902398821" duration="5205000" />
+      <workItem from="1557908150012" duration="246000" />
+      <workItem from="1557909853504" duration="11516000" />
+      <workItem from="1557990709784" duration="1585000" />
+      <workItem from="1558014798768" duration="2772000" />
+      <workItem from="1558080158948" duration="4000" />
+      <workItem from="1558080813801" duration="16050000" />
+      <workItem from="1558118185585" duration="10609000" />
+      <workItem from="1558168333539" duration="1199000" />
+      <workItem from="1558171940453" duration="6464000" />
+      <workItem from="1558180523334" duration="23017000" />
+      <workItem from="1558250587642" duration="11018000" />
+      <workItem from="1558271013715" duration="16224000" />
+      <workItem from="1558334597485" duration="19277000" />
+      <workItem from="1558377522321" duration="10257000" />
+      <workItem from="1558418608460" duration="30601000" />
+      <workItem from="1558512564205" duration="31942000" />
+      <workItem from="1558612794296" duration="4623000" />
+      <workItem from="1558629600164" duration="5965000" />
+      <workItem from="1558638063787" duration="4000" />
+      <workItem from="1558638387191" duration="12552000" />
+      <workItem from="1558689006816" duration="21000" />
+      <workItem from="1558689286911" duration="40747000" />
+      <workItem from="1558775546619" duration="9332000" />
+      <workItem from="1558800088238" duration="15946000" />
+      <workItem from="1558855342746" duration="1196000" />
+      <workItem from="1558873441548" duration="7790000" />
+      <workItem from="1558904603760" duration="4065000" />
+      <workItem from="1558946542994" duration="11485000" />
+      <workItem from="1558969916084" duration="9788000" />
+      <workItem from="1559072597552" duration="599000" />
+      <workItem from="1559131667866" duration="1497000" />
+      <workItem from="1559146820999" duration="5393000" />
+      <workItem from="1559164203548" duration="1130000" />
+      <workItem from="1559222011199" duration="317000" />
+      <workItem from="1559222355729" duration="199000" />
+      <workItem from="1559238942042" duration="1834000" />
+      <workItem from="1559493298846" duration="643000" />
+      <workItem from="1559553214577" duration="598000" />
+      <workItem from="1559577697668" duration="1213000" />
+      <workItem from="1559586396902" duration="47000" />
+      <workItem from="1559588190832" duration="632000" />
+      <workItem from="1559685728700" duration="447000" />
+      <workItem from="1559756370129" duration="1828000" />
+      <workItem from="1559837052650" duration="6325000" />
+      <workItem from="1559849504093" duration="2065000" />
+      <workItem from="1559941614267" duration="145000" />
+      <workItem from="1560021277348" duration="1968000" />
+      <workItem from="1560167242734" duration="41000" />
+      <workItem from="1560278559632" duration="707000" />
+      <workItem from="1560332178967" duration="26420000" />
+      <workItem from="1560363580096" duration="5143000" />
+      <workItem from="1560417575173" duration="5374000" />
+      <workItem from="1560430609472" duration="602000" />
+      <workItem from="1560499117806" duration="2354000" />
+      <workItem from="1560541131414" duration="646000" />
+      <workItem from="1560604293041" duration="509000" />
+      <workItem from="1560609763587" duration="1308000" />
+      <workItem from="1560751400483" duration="2587000" />
+      <workItem from="1560761536941" duration="661000" />
+      <workItem from="1560797111580" duration="705000" />
+      <workItem from="1560848527316" duration="1330000" />
+      <workItem from="1560938430364" duration="10887000" />
+      <workItem from="1560961024670" duration="136000" />
+      <workItem from="1560973456836" duration="2139000" />
+      <workItem from="1561012261177" duration="2523000" />
+      <workItem from="1561021740301" duration="2708000" />
+      <workItem from="1561147616072" duration="354000" />
+      <workItem from="1561224131283" duration="603000" />
+      <workItem from="1561377795808" duration="1013000" />
+      <workItem from="1561653682672" duration="443000" />
+      <workItem from="1561661406061" duration="770000" />
+      <workItem from="1561704101049" duration="1974000" />
+      <workItem from="1561813370161" duration="209000" />
+      <workItem from="1561895231142" duration="1446000" />
+      <workItem from="1561956653433" duration="6561000" />
+      <workItem from="1562239770345" duration="23389000" />
+      <workItem from="1562304426644" duration="4953000" />
+      <workItem from="1562309604785" duration="460000" />
+      <workItem from="1562310086848" duration="124000" />
+      <workItem from="1562310470434" duration="14373000" />
+      <workItem from="1562340948585" duration="6886000" />
+      <workItem from="1562389105848" duration="11013000" />
+      <workItem from="1562410381759" duration="12321000" />
+      <workItem from="1562426151383" duration="16157000" />
+      <workItem from="1562476322407" duration="16444000" />
+      <workItem from="1562503273349" duration="11364000" />
+      <workItem from="1562528237125" duration="449000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="702589000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="70" y="35" width="1850" height="1045" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4985728" visible="true" weight="0.24330357" />
+      <window_info id="Structure" order="1" sideWeight="0.50142723" side_tool="true" weight="0.23684211" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.3298479" />
+      <window_info active="true" anchor="bottom" id="manage.py@sust-medical-center" order="8" sideWeight="0.49731472" visible="true" weight="0.21285564" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5026853" side_tool="true" weight="0.3054234" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.32967034" />
+      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.49832776" weight="0.17386723" />
+      <window_info anchor="bottom" id="Python Console" order="13" weight="0.32921028" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.3299356" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32979912" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4985728" visible="true" weight="0.21316965" />
+      <window_info id="Structure" order="1" sideWeight="0.50142723" side_tool="true" weight="0.23684211" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.3298479" />
+      <window_info anchor="bottom" id="manage.py@sust-medical-center" order="8" sideWeight="0.49731472" weight="0.2863939" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5026853" side_tool="true" weight="0.30558482" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.32967034" />
+      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.49832776" weight="0.26343518" />
+      <window_info anchor="bottom" id="Python Console" order="13" weight="0.32967034" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.3299356" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32979912" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/cse/static/cse/tiger/css/_portfolio.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cse/static/cse/tiger/css/responsive.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cse/static/cse/tiger/css/_skill.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cse/templates/cse/feed.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cse/templates/cse/feed3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cse/templates/cse/feed2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medical/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cse/templates/cse/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-374">
+          <caret line="284" column="45" lean-forward="true" selection-start-line="284" selection-start-column="45" selection-end-line="284" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medical/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medical/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#223#232#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cse/apps.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cse/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cse/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cse/templates/cse/doctor_super.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="370" column="48" lean-forward="true" selection-start-line="370" selection-start-column="48" selection-end-line="370" selection-end-column="48" />
+          <folding>
+            <element signature="n#style#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#form#1;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cse/templates/cse/doctor_general.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="365" column="6" selection-start-line="365" selection-start-column="6" selection-end-line="365" selection-end-column="6" />
+          <folding>
+            <element signature="n#style#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cse/templates/cse/doctor_full_p_general.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="202" column="57" selection-start-line="202" selection-start-column="57" selection-end-line="202" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cse/templates/cse/doctorreg.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="612" column="39" lean-forward="true" selection-start-line="612" selection-start-column="39" selection-end-line="612" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cse/templates/cse/prescription.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="229" column="14" lean-forward="true" selection-start-line="229" selection-start-column="14" selection-end-line="229" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cse/templates/cse/patient_confirm.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="611" column="36" selection-start-line="611" selection-start-column="36" selection-end-line="611" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cse/templates/cse/password_reset_confirm.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="473" column="39" selection-start-line="473" selection-start-column="39" selection-end-line="473" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cse/templates/cse/password_reset_done.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="474" column="40" selection-start-line="474" selection-start-column="40" selection-end-line="474" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cse/templates/cse/password_reset.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="621" column="40" selection-start-line="621" selection-start-column="40" selection-end-line="621" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cse/templates/cse/profile_medi.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3410" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cse/templates/cse/if_invalid.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="473" column="36" selection-start-line="473" selection-start-column="36" selection-end-line="473" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cse/templates/cse/if_invalid_pass.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="471" column="36" selection-start-line="471" selection-start-column="36" selection-end-line="471" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cse/templates/cse/doctor_full_profile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="204" column="49" lean-forward="true" selection-start-line="204" selection-start-column="49" selection-end-line="204" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cse/templates/cse/confirm_email_pass.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cse/templates/cse/before_confirm_admin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="462" column="35" selection-start-line="462" selection-start-column="35" selection-end-line="462" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cse/templates/cse/before_confirm.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="463" column="36" selection-start-line="463" selection-start-column="36" selection-end-line="463" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cse/templates/cse/after_confirm_pass.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="465" column="36" selection-start-line="465" selection-start-column="36" selection-end-line="465" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cse/templates/cse/after_confirm_admin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="463" column="35" selection-start-line="463" selection-start-column="35" selection-end-line="463" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cse/templates/cse/about_us_general.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cse/templates/cse/medi_pre.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="636" column="36" selection-start-line="636" selection-start-column="36" selection-end-line="636" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cse/templates/cse/medicinenew.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="609" column="36" selection-start-line="609" selection-start-column="36" selection-end-line="609" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cse/templates/cse/after_confirm.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="463" column="36" selection-start-line="463" selection-start-column="36" selection-end-line="463" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medical/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="77" column="62" lean-forward="true" selection-start-line="77" selection-start-column="62" selection-end-line="77" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cse/templates/cse/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="687" column="17" lean-forward="true" selection-start-line="687" selection-start-column="17" selection-end-line="687" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cse/templates/cse/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5">
+          <caret line="619" column="35" selection-start-line="619" selection-start-column="35" selection-end-line="619" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cse/templates/cse/test2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="590">
+          <caret line="972" column="75" lean-forward="true" selection-start-line="972" selection-start-column="75" selection-end-line="972" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cse/templates/cse/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="942">
+          <caret line="2197" selection-start-line="2197" selection-end-line="2197" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cse/templates/cse/test3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="2234" column="12" lean-forward="true" selection-start-line="2234" selection-start-column="12" selection-end-line="2234" selection-end-column="12" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#li#0;n#div#10;n#ul#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cse/templates/cse/pregform.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1724">
+          <caret line="2271" selection-start-line="2271" selection-end-line="2271" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#li#0;n#div#10;n#ul#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cse/templates/cse/services_general.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cse/templates/cse/services.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="283" column="58" lean-forward="true" selection-start-line="283" selection-start-column="58" selection-end-line="283" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cse/static/cse/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-23034" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cse/templates/cse/profile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="223" column="11" lean-forward="true" selection-start-line="223" selection-start-column="11" selection-end-line="223" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cse/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cse/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="445" column="18" lean-forward="true" selection-start-line="445" selection-start-column="18" selection-end-line="445" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cse/templates/cse/doctors.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8118">
+          <caret line="369" selection-start-line="369" selection-end-line="369" />
+          <folding>
+            <element signature="n#style#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cse/templates/cse/medicineall.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16412">
+          <caret line="746" column="51" selection-start-line="746" selection-start-column="51" selection-end-line="746" selection-end-column="51" />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#form#0;n#li#0;n#ul#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cse/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1034">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
