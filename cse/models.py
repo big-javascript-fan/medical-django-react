@@ -44,7 +44,7 @@ class Doctors(models.Model):
     def __str__(self):
         return self.email
 
-class FeebBack(models.Model):
+class Feedback(models.Model):
     user = models.ForeignKey(CustomUser,default=1,on_delete=models.CASCADE)
     tsub = models.CharField(null=False,blank=False,default=None,max_length=100)
     tmessage = models.TextField(null=False,blank=False,default=None)
